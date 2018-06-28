@@ -1,0 +1,319 @@
+{
+  "issueReporter_page_title": {
+    "message": "گزارش گر اشکالات"
+  }, 
+  "firstRun_contributor_credits": {
+    "message": "اعتبار نویسندگان"
+  }, 
+  "firstRun_acceptableAdsHeadline": {
+    "message": "تبلیغات آزار دهنده در حال حاضر مسدود خواهد شد"
+  }, 
+  "issueReporter_comment_description": {
+    "message": "جعبه متن زیر به شما اجازه می دهد که نظر خود را برای کمک به درک ما در مورد مشکل وارد کنید. این مورد اختیاری می باشد ولی در صورتی که مشکل آشکار نیست توصیه می شود. شما همچنین می توانید قبل از ارسال گزارش داده ها را بررسی کنید."
+  }, 
+  "enabled_for_site": {
+    "message": "برای این سایت <strong>فعال شد</strong>"
+  }, 
+  "common_feature_malware_title": {
+    "message": "مسدود کردن بدافزار"
+  }, 
+  "firstRun_title": {
+    "message": "Adblock Plus با موفقیت نصب شد"
+  }, 
+  "issueReporter_showData_label": {
+    "message": "نمایش داده های گزارش"
+  }, 
+  "add": {
+    "message": "اضافه کردن"
+  }, 
+  "invalid_css_selector": {
+    "message": "$selector$ انتخابگر معتبری در CSS نیست", 
+    "placeholders": {
+      "selector": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "options_customize_showNotifications": {
+    "message": "نمایش اعلان های مفید"
+  }, 
+  "common_feature_social_title": {
+    "message": "مسدود کردن ردیابی آیکون‌های رسانه‌های اجتماعی"
+  }, 
+  "options_filterList_updateNow": {
+    "message": "آپدیت کن"
+  }, 
+  "issueReporter_sendButton_label": {
+    "message": "ارسال گزارش"
+  }, 
+  "overlay_notification_button_yes": {
+    "message": "بله"
+  }, 
+  "options_filterList_column_name": {
+    "message": "لیست فیلتر"
+  }, 
+  "options_filterList_lastDownload_connectionError": {
+    "message": "ناموفق، فرآیند دریافت شکست خورد"
+  }, 
+  "unexpected_filter_list_header": {
+    "message": "فیلتر لیست هدر ها ، اینجا مجاز نیست"
+  }, 
+  "notification_antiadblock_message": {
+    "message": "این سایت پیام های هدفمند برای کاربران Adblock Plus نشان می دهد. آیا مایلید که Adblock Plus پیام های هدفمند را از دید شما مخفی کند؟"
+  }, 
+  "issueReporter_sending": {
+    "message": "لطفا صبر کنید تا فوق تبلیغ شکن گزارش شما را ارسال کند."
+  }, 
+  "name": {
+    "message": "Adblock Plus"
+  }, 
+  "issueReporter_confirmationMessage": {
+    "message": "گزارش شما ذخیره شد. شما می توانید در نشانی زیر به آن دسترسی پیدا کنید:"
+  }, 
+  "issueReporter_dataCollector_description": {
+    "message": "لطفا برای چند لحظه صبر کنید تا فوق تبلیغ شکن داده های درخواستی شما را جمع آوری کند."
+  }, 
+  "continue": {
+    "message": "ادامه"
+  }, 
+  "issueReporter_typeSelector_description": {
+    "message": "این پنجره شما را برای ارائه یک گزارش خطا فوق تبلیغ شکن راهنمایی می کند. ابتدا نوع مشکلی را که در این صفحه با آن روبرو هستید را انتخاب کنید:"
+  }, 
+  "issueReporter_comment_lengthWarning": {
+    "message": "حد اکثر طول نظر 1000 حرف می باشد. فقط 1000 حرف اولی فرستاده می شود."
+  }, 
+  "notification_open_all": {
+    "message": "باز کردن همه لینک های این هشدار"
+  }, 
+  "options_customFilter_edit": {
+    "message": "ویرایش فیلترها"
+  }, 
+  "overlay_notification_closing_button_hide": {
+    "message": "بستن این اعلان"
+  }, 
+  "filter_invalid_csp": {
+    "message": "سیاست امنیتی نامعتبر مطالب"
+  }, 
+  "overlay_notification_closing_button_optout": {
+    "message": "عدم نمایش اعلان ها"
+  }, 
+  "firstRun_abbPromotionHeadline": {
+    "message": "یک تلفن هوشمند یا تبلت دارید؟"
+  }, 
+  "issueReporter_typeSelector_heading": {
+    "message": "انتخاب نوع اشکال"
+  }, 
+  "name_devbuild": {
+    "message": "توسعه ساخت Adblock Plus"
+  }, 
+  "overlay_notification_button_no": {
+    "message": "خیر"
+  }, 
+  "common_feature_privacy_title": {
+    "message": "ردیابی اضافی را مسدود کنید"
+  }, 
+  "options_filterList_column_status": {
+    "message": "وضعیت"
+  }, 
+  "firstRun_donate_label": {
+    "message": "پروژه ما را حمایت کنید"
+  }, 
+  "issueReporter_comment_label": {
+    "message": "نظر (اختیاری):"
+  }, 
+  "issueReporter_dataCollector_heading": {
+    "message": "به گزارشگر اشکالات خوش آمدید"
+  }, 
+  "notification_configure": {
+    "message": "پیکربندی تنظیمات اعلان"
+  }, 
+  "filter_elemhideemulation_nodomain": {
+    "message": "هیچ دامنه فعال برای فیلترینگ پنهان شده مشخص نشده است"
+  }, 
+  "firstRun_share": {
+    "message": "به دوستان خود بگویید"
+  }, 
+  "notification_without_buttons": {
+    "message": "برای باز شدن همه لینک های داخلش ، روی هشدار کلیک کنید."
+  }, 
+  "loading": {
+    "message": "بارگذاری..."
+  }, 
+  "filter_unknown_option": {
+    "message": "فیلتر ناشناس"
+  }, 
+  "issueReporter_anonymousSubmission_warning": {
+    "message": "ما قادر نخواهیم بود که دوباره بیاییم و احتمالاً این گزارش را در اولویت های پایین تر قرار می دهیم."
+  }, 
+  "notification_with_buttons": {
+    "message": "برای باز شدن همه لینک های این هشدار ، روی OK کلیک کنید."
+  }, 
+  "options_customFilter_cancel": {
+    "message": "لغو"
+  }, 
+  "firstRun_abbButtonSubtitle": {
+    "message": "برای Android و iOS موجود است"
+  }, 
+  "issueReporter_falsePositive_description": {
+    "message": "اگر صفحه خالی از محتوای مهم می شود یا نادرست نمایش داده می شود یا موفق به عملکرد درست نیست این گزینه را انتخاب کنید."
+  }, 
+  "disabled_for_site": {
+    "message": "برای این سایت <strong>غیرفعال شد</strong>"
+  }, 
+  "block_element": {
+    "message": "مسدود کردن این عنصر"
+  }, 
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "ناموفق، فرآیند دریافت شکست خورد"
+  }, 
+  "options_customFilter_save": {
+    "message": "ذخیره"
+  }, 
+  "options_page_title": {
+    "message": "تنظیمات"
+  }, 
+  "cancel": {
+    "message": "لغو"
+  }, 
+  "options_tab_whitelist": {
+    "message": "فهرست سفید پایگاهها (که تبلیغات مسدود نشه)"
+  }, 
+  "firstRun_acceptableAdsExplanation": {
+    "message": "من می خواهم وب سایت ها را تشویق کنم تا از تبلیغات درست و حسابی بدون مزاحمت استفاده کنند. این دلیل ساختن <a> دستورالعمل های دقیق </a> است تا بتواند تبلیغات قابل قبول را بپذیرد و آن ها را به شما نشان دهد ، تبلیغاتی که در شرایط استاندارد صدق کنند. اگر شما می خواهید هر تبلیغی را از هر صفحه ای مسدود کنید می توانید آن را در عرض چند ثانیه <a>غیر فعال</a> کنید."
+  }, 
+  "firstRun_filterlistsReinitializedWarning": {
+    "message": "به نظر می رسد که ناشی از موضوع همه فیلتر به حذف می شود و ما قادر به بازگرداندن پشتیبان. بنابراین ما مجبور به تنظیم مجدد فیلتر و تنظیمات تبلیغات قابل قبول. لطفا لیست فیلتر و تنظیمات تبلیغات قابل قبول در <a>Adblock پلاس گزینه های</a> خود را."
+  }, 
+  "filter_invalid_regexp": {
+    "message": "الگوی جستجوی نامعتبر"
+  }, 
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> در این صفحه", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "options_short": {
+    "message": "تنظیمات"
+  }, 
+  "issueReporter_anonymousSubmission_label": {
+    "message": "ارسال ناشناس"
+  }, 
+  "issueReporter_email_label": {
+    "message": "پست الکترونیکی:"
+  }, 
+  "options_page_document_title": {
+    "message": "تنظیمات"
+  }, 
+  "options_filterList_state_disabled": {
+    "message": "غیر فعال"
+  }, 
+  "issueReporter_email_description": {
+    "message": "ما شما را تشویق می کنیم که یک آدرس ایمیل معتبر از خود وارد کنید تا اگر سوالی بود ما بتوانیم در آینده با شما ارتباط برقرار کنیم در مورد گزارش شما. این به ما اجازه می دهد که میزان همکاری شما را بسنجیم و اولویت کار شما به مراحل بالاتر برسد."
+  }, 
+  "notification_antiadblock_title": {
+    "message": "آیا مایلید پیام های هدفمند برای کاربران Adblock Plus را مخفی نمایید؟"
+  }, 
+  "line": {
+    "message": "خط $number$", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "issueReporter_commentPage_heading": {
+    "message": "وارد کردن نظر"
+  }, 
+  "easy_create_filter": {
+    "message": "مسدود کردن این عنصر"
+  }, 
+  "options_control_remove_title": {
+    "message": "حذف"
+  }, 
+  "issueReporter_falseNegative_label": {
+    "message": "فوق تبلیغ شکن هیچ تبلیغی را مسدود نمی کند."
+  }, 
+  "options_email": {
+    "message": "ایمیل:"
+  }, 
+  "clickhide_instructions": {
+    "message": "پس از بسته شدن این پنجره، روی بخشی از صفحه کلیک (یا راست کلیک) کن."
+  }, 
+  "issueReporter_falseNegative_description": {
+    "message": "اگر تبلیغات همچنان مشاهده می شوند با وجود این که فوق تبلیغ شکن فعال است این گزینه را انتخاب کنید"
+  }, 
+  "common_feature_anti_adblock_title": {
+    "message": "مخفی کردن پیام‌های هشدار Adblock"
+  }, 
+  "issueReporter_sendPage_heading": {
+    "message": "ارسال گزارش"
+  }, 
+  "sendReport": {
+    "message": "گزارش مشکل در این صفحه"
+  }, 
+  "firstRun_abbButtonTitle": {
+    "message": "Adblock Browser را از این‌جا بگیرید"
+  }, 
+  "add_filters_msg": {
+    "message": "اضافه کردن فیلتر (ها) ؟"
+  }, 
+  "issueReporter_doneButton_label": {
+    "message": "انجام شد"
+  }, 
+  "stats_title": {
+    "message": "تبلیغات مسدود شده"
+  }, 
+  "issueReporter_errorMessage": {
+    "message": "تلاش برای ارسال گزارش شکست خورد، شماره خطا \"?1?\". لطفا مطمئن شوید که به اینترنت متصل هستید و مجددا سعی کنید. اگر مشکل همچنان ادامه دارد می توانید در [link]تالار گفتمان فوق تبلیغ شکن[/link] در خواست کمک کنید."
+  }, 
+  "issueReporter_knownIssueMessage": {
+    "message": "گزارشی که شما ارسال کردید هم اکنون شناخته شده است. اطلاعات بیشتر:"
+  }, 
+  "options_tab_general": {
+    "message": "صفحه اصلی"
+  }, 
+  "firstRun_donate": {
+    "message": "کمک مالی"
+  }, 
+  "issueReporter_falsePositive_label": {
+    "message": "فوق تبلیغ شکن بیش از حد موارد را مسدود می کند."
+  }, 
+  "description": {
+    "message": "با بیش‌از ۵۰۰میلیون دانلود، ادبلاک پلاس یکی از محبوب‌ترین مسدودکننده‌های تبلیغات در جهان است."
+  }, 
+  "options_close": {
+    "message": "بستن"
+  }, 
+  "options_filterList_lastDownload_invalidURL": {
+    "message": "ناموفق، نشانی معتبر نیست"
+  }, 
+  "stats_label_total": {
+    "message": "<strong>$number$</strong> در کل", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "filter_invalid_domain": {
+    "message": "دامنه نامعتبر (یا خالی) مشخص شده است"
+  }, 
+  "issueReporter_privacyPolicy": {
+    "message": "سیاست حفظ اسرار"
+  }, 
+  "firstRun_share_headline": {
+    "message": "<a>بیایید</a> اینترنت را بهتر کنیم"
+  }, 
+  "stats_show_iconnumber": {
+    "message": "نمایش تعداد در آیکون"
+  }, 
+  "options_filterList_title": {
+    "message": "لیست فیلتر"
+  }, 
+  "options_filterList_lastDownload_checksumMismatch": {
+    "message": "ناموفق, عدم تطابق کنترلی"
+  }
+}

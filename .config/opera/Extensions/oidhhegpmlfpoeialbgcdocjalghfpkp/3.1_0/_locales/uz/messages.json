@@ -1,0 +1,149 @@
+{
+  "disabled_for_site": {
+    "message": "Бу сайтда <strong>фаолсизлантирилган</strong>"
+  }, 
+  "notification_open_all": {
+    "message": "Бу билдиришномадаги барча ҳаволалар очилсин"
+  }, 
+  "clickhide_instructions": {
+    "message": "Бу қалқиб чиқувчи ойнани ёпгандан кейин, саҳифадаги элемент устида сичқончанинг ўнг ёки чап тугмасини босинг."
+  }, 
+  "block_element": {
+    "message": "Элементни блоклаш"
+  }, 
+  "firstRun_acceptableAdsHeadline": {
+    "message": "Asabga teguvchi reklamalar endi ko‘rinmaydi"
+  }, 
+  "overlay_notification_button_no": {
+    "message": "Йўқ"
+  }, 
+  "options_page_title": {
+    "message": "Sozlamalar"
+  }, 
+  "cancel": {
+    "message": "Бекор"
+  }, 
+  "options_page_document_title": {
+    "message": "Sozlamalar"
+  }, 
+  "enabled_for_site": {
+    "message": "Бу сайтда <strong>ёқилган</strong>"
+  }, 
+  "overlay_notification_closing_button_hide": {
+    "message": "Билдиришномани ёпиш"
+  }, 
+  "loading": {
+    "message": "Юкланмоқда..."
+  }, 
+  "firstRun_title": {
+    "message": "Adblock Plus o‘rnatildi"
+  }, 
+  "firstRun_acceptableAdsExplanation": {
+    "message": "Biz veb-sayt egalariga oddiy, dilni xira qilmaydigan reklamalardan foydalanishni tavsiya etamiz. Shuning uchun biz ma’qul keladigan (odatda, ruxsat berilgan) reklamalarni aniqlash uchun <a>qat’iy qoidalarni</a> o‘rnatganmiz. Agar hanuz har qanday reklamani o‘chirib qo‘yishni xohlasnagiz, bir necha soniyadan so‘ng <a>O‘chirib qo‘yish</a> tugmasini bosing."
+  }, 
+  "stats_title": {
+    "message": "Блокланган рекламалар"
+  }, 
+  "filter_invalid_regexp": {
+    "message": "Регуляр ифода яроқсиз"
+  }, 
+  "add": {
+    "message": "Қўшиш"
+  }, 
+  "stats_label_page": {
+    "message": "Бу саҳифада: <strong>$number$</strong>", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "name_devbuild": {
+    "message": "Adblock Plus синов версияси"
+  }, 
+  "invalid_css_selector": {
+    "message": "$selector$ яроқли CSS селектор эмас", 
+    "placeholders": {
+      "selector": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "options_short": {
+    "message": "Параметрлар"
+  }, 
+  "notification_antiadblock_title": {
+    "message": "Reklamalari xabarlar berkitilsinmi?"
+  }, 
+  "add_filters_msg": {
+    "message": "Фильтр(лар) қўшилсинми?"
+  }, 
+  "description": {
+    "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers.", 
+    "description": "Note: this cannot be longer than 132 characters"
+  }, 
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "Хато: юклаб олинмади"
+  }, 
+  "notification_configure": {
+    "message": "Билдиришнома параметрларини созлаш"
+  }, 
+  "filter_elemhideemulation_nodomain": {
+    "message": "Беркитиладиган элементларнинг кенгайтирилган фильтри учун ҳеч қандай домен кўрсатилмаган"
+  }, 
+  "notification_without_buttons": {
+    "message": "Барча иловаларни очиш учун билдиришномага босинг."
+  }, 
+  "stats_show_iconnumber": {
+    "message": "Иконкада рақам кўрсатилсин"
+  }, 
+  "stats_label_total": {
+    "message": "Жами: <strong>$number$</strong>", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "filter_unknown_option": {
+    "message": "Фильтр параметри номаълум"
+  }, 
+  "line": {
+    "message": "$number$-қатор", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "notification_with_buttons": {
+    "message": "Бу билдиришномадаги барча ҳаволаларни очиш учун \"ОК\" тугмасини босинг."
+  }, 
+  "unexpected_filter_list_header": {
+    "message": "Бу ерда фильтрлар рўйхати сарлавҳалари қўшилмайди"
+  }, 
+  "overlay_notification_closing_button_optout": {
+    "message": "Билдиришномалар кўрсатилмасин"
+  }, 
+  "overlay_notification_button_yes": {
+    "message": "Ҳа"
+  }, 
+  "name": {
+    "message": "Adblock Plus"
+  }, 
+  "easy_create_filter": {
+    "message": "Элементни блоклаш"
+  }, 
+  "options_language_header": {
+    "message": "Til"
+  }, 
+  "sendReport": {
+    "message": "Саҳифадаги муаммо ҳақида хабар бериш"
+  }, 
+  "filter_invalid_domain": {
+    "message": "Яроқсиз (ёки бўш) домен киритилди"
+  }, 
+  "continue": {
+    "message": "Давом этиш"
+  }
+}

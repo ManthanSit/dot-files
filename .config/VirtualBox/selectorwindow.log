@@ -1,0 +1,30 @@
+VirtualBox GUI VM Selector Window 5.0.40_Ubuntu r115130 linux.amd64 (Nov  6 2017 17:41:59) release log
+00:00:02.656133 Log opened 2018-02-12T12:26:09.419799000Z
+00:00:02.656134 Build Type: release
+00:00:02.656136 OS Product: Linux
+00:00:02.656138 OS Release: 4.13.0-32-generic
+00:00:02.656139 OS Version: #35~16.04.1-Ubuntu SMP Thu Jan 25 10:13:43 UTC 2018
+00:00:02.656160 DMI Product Name: HP Pavilion Notebook 
+00:00:02.656166 DMI Product Version: Type1ProductConfigId
+00:00:02.656212 Host RAM: 7906MB total, 5086MB available
+00:00:02.656214 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:02.656215 Process ID: 14171
+00:00:02.656215 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:02.656239 Qt version: 4.8.7
+00:00:02.865215 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:03.498993 GUI: UISelectorWindow: Geometry loaded to: Origin=319x134, Size=770x578
+00:00:03.547584 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:21.466579 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = 9d3e1fe3-e37a-4ddc-a45a-e3b807d026a8
+00:01:21.466629 GUI: UIMediumEnumerator:  Old usage: c2e03eff-f276-4815-a468-785b5c8137a4
+00:01:21.467909 GUI: UIMediumEnumerator:  New usage: c2e03eff-f276-4815-a468-785b5c8137a4
+00:01:21.467928 GUI: UIMediumEnumerator:  Items currently in usage: c2e03eff-f276-4815-a468-785b5c8137a4
+00:01:21.467983 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = 9d3e1fe3-e37a-4ddc-a45a-e3b807d026a8
+00:01:21.485002 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:35.499960 GUI: UIMediumEnumerator: Machine (or snapshot) event received, ID = 9d3e1fe3-e37a-4ddc-a45a-e3b807d026a8
+00:14:35.500016 GUI: UIMediumEnumerator:  Old usage: c2e03eff-f276-4815-a468-785b5c8137a4
+00:14:35.502312 GUI: UIMediumEnumerator:  New usage: c2e03eff-f276-4815-a468-785b5c8137a4
+00:14:35.502331 GUI: UIMediumEnumerator:  Items currently in usage: c2e03eff-f276-4815-a468-785b5c8137a4
+00:14:35.502385 GUI: UIMediumEnumerator: Machine (or snapshot) event processed, ID = 9d3e1fe3-e37a-4ddc-a45a-e3b807d026a8
+00:14:35.538492 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:14:35.610032 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={7844aa05-b02e-4cdd-a04f-ade4a762e6b7} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:14:38.997946 GUI: UISelectorWindow: Geometry saved as: Origin=319x134, Size=770x578

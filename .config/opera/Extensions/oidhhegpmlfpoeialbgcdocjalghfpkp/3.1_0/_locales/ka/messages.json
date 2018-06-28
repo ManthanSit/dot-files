@@ -1,0 +1,163 @@
+{
+  "disabled_for_site": {
+    "message": "<strong>გამორთულია</strong> ამ საიტზე"
+  }, 
+  "options_filterList_lastDownload_connectionError": {
+    "message": "ჩამოტვირთვა წარუმატებელია"
+  }, 
+  "notification_open_all": {
+    "message": "ყველა ბმულის გახსნა ამ შეტყობინებიდან"
+  }, 
+  "clickhide_instructions": {
+    "message": "ამ სარკმლის დახურვისთანავე, დააწკაპეთ (ან მარჯვენა წკაპი) ელემენტზე მოცემულ გვერდზე."
+  }, 
+  "block_element": {
+    "message": "ელემენტის შეზღუდვა"
+  }, 
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "შეცდომა, ჩამოტვირთვა ვერ მოხერხდა"
+  }, 
+  "overlay_notification_button_no": {
+    "message": "არა"
+  }, 
+  "overlay_notification_closing_button_hide": {
+    "message": "შეტყობინების დახურვა"
+  }, 
+  "sendReport": {
+    "message": "მოხსენება ხარვეზის შესახებ ამ გვერდზე"
+  }, 
+  "cancel": {
+    "message": "გაუქმება"
+  }, 
+  "filter_invalid_csp": {
+    "message": "არამართებული შიგთავსის უსაფრთხოების დებულება"
+  }, 
+  "issueReporter_doneButton_label": {
+    "message": "მზადაა"
+  }, 
+  "loading": {
+    "message": "იტვირთება..."
+  }, 
+  "options_tab_whitelist": {
+    "message": "დაშვებული ვებ-საიტები"
+  }, 
+  "stats_title": {
+    "message": "შეზღუდული რეკლამები"
+  }, 
+  "filter_invalid_regexp": {
+    "message": "არამართებული რეგულარული გამოსახულება"
+  }, 
+  "add": {
+    "message": "დამატება"
+  }, 
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> ამ გვერდზე", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "unexpected_filter_list_header": {
+    "message": "ფილტრის წესების თავსართები არაა აქ დაშვებული"
+  }, 
+  "name_devbuild": {
+    "message": "Adblock Plus საცდელი ანაწყობი"
+  }, 
+  "invalid_css_selector": {
+    "message": "$selector$ არაა მართებული CSS მიმთითებელი", 
+    "placeholders": {
+      "selector": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "options_short": {
+    "message": "პარამეტრები"
+  }, 
+  "options_filterList_column_status": {
+    "message": "სტატუსი"
+  }, 
+  "options_customFilter_cancel": {
+    "message": "გაუქმება"
+  }, 
+  "options_filterList_updateNow": {
+    "message": "აქტუალიზირება"
+  }, 
+  "add_filters_msg": {
+    "message": "დაემატოს ფილტრ(ებ)ი?"
+  }, 
+  "description": {
+    "message": "500 მილიონზე მეტი ჩამოტვირთვით, Adblock Plus მსოფლიოში ერთ-ერთი ყველაზე სასურველი რეკლამების შემზღუდავია."
+  }, 
+  "notification_configure": {
+    "message": "შეტყობინებების პარამეტრების გამართვა"
+  }, 
+  "filter_elemhideemulation_nodomain": {
+    "message": "მოქმედი დომენი არაა მითითებული ელემენტის დამალვის გაფართოებული ფილტრისთვის"
+  }, 
+  "options_close": {
+    "message": "დახურვა"
+  }, 
+  "options_filterList_state_disabled": {
+    "message": "გამორთული"
+  }, 
+  "notification_without_buttons": {
+    "message": "დააწკაპეთ ამ შეტყობინებაზე მასში არსებული ყველა ბმულის გასახსნელად."
+  }, 
+  "stats_show_iconnumber": {
+    "message": "რიცხვის ჩვენება ხატულაზე"
+  }, 
+  "options_filterList_column_name": {
+    "message": "ფილტრის წესები"
+  }, 
+  "filter_unknown_option": {
+    "message": "ფილტრის უცნობი პარამეტრი"
+  }, 
+  "line": {
+    "message": "ხაზი $number$", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "notification_with_buttons": {
+    "message": "დაწკაპეთ \"OK\" ამ შეტყობინებიდან ყველა ბმულის გასახსნელად."
+  }, 
+  "overlay_notification_closing_button_optout": {
+    "message": "შეტყობინებების შეწყვეტა"
+  }, 
+  "enabled_for_site": {
+    "message": "<strong>ჩართულია</strong> ამ საიტზე"
+  }, 
+  "overlay_notification_button_yes": {
+    "message": "დიახ"
+  }, 
+  "name": {
+    "message": "Adblock Plus"
+  }, 
+  "easy_create_filter": {
+    "message": "ელემენტის შეზღუდვა"
+  }, 
+  "issueReporter_privacyPolicy": {
+    "message": "კონფიდენციალურობის პოლიტიკა"
+  }, 
+  "filter_invalid_domain": {
+    "message": "მითითებულია არამართებული (ან ცარიელი) დომენი"
+  }, 
+  "continue": {
+    "message": "გაგრძელება"
+  }, 
+  "options_filterList_title": {
+    "message": "ფილტრის წესები"
+  }, 
+  "stats_label_total": {
+    "message": "<strong>$number$</strong> ჯამში", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }
+}

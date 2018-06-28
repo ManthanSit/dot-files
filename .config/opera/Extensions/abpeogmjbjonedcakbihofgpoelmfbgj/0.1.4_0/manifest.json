@@ -1,0 +1,38 @@
+{
+   "background": {
+      "page": "lib/chrome/background.html"
+   },
+   "browser_action": {
+      "default_icon": "data/icons/16.png",
+      "default_popup": "data/popup/popup.html",
+      "default_title": "YouTube™ Flash-HTML5"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "data/communication.js", "data/content_script/inject.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Play YouTube Videos in Flash or HTML5 Player",
+   "developer": {
+      "name": "elennorphen"
+   },
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8n4bINJdiwGhl90Hokn77sdCWfovhwtuamX34XiZSvbNfsCNjVnHKKMRwwoeYX9v5QmswtqgXv+nbebt9v+eBXbwuiuTK2f4gNtuE8cC77TjukpJs9Lu/m986dHFpKdKXvXsoKOsOu8YwwZAA/anfNDoYEMX0OkQ9105wcIWamGnMWNmHgvtmb3k7OoapdREMqJTPj5TT8cOydMqSRp5yiR7EALGjjUdrhWI1SL8pzpJoZ0yf/JqjtTMOynQ9UkS7xSObc64h1Y4fzG3hSpjqAnTgjY2Qs+LrFF+LSCXg8mnkqaSIYngn2fV2YE/UBFe5Onboh+oikBacjQvn9bm4QIDAQAB",
+   "manifest_version": 2,
+   "name": "YouTube™ Flash-HTML5",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "data/options/options.html"
+   },
+   "permissions": [ "tabs", "storage", "\u003Call_urls>" ],
+   "short_name": "youtubeflashhtml",
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "0.1.4"
+}

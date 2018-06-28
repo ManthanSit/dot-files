@@ -1,0 +1,15 @@
+{
+  "overlay_notification_button_yes": {
+    "message": "Tha"
+  }, 
+  "overlay_notification_button_no": {
+    "message": "Chan eil"
+  }, 
+  "description": {
+    "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers.", 
+    "description": "Note: this cannot be longer than 132 characters"
+  }, 
+  "name": {
+    "message": "Adblock Plus"
+  }
+}

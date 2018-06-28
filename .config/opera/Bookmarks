@@ -1,0 +1,306 @@
+{
+   "checksum": "1d7777611a0fcdbc96a3a79c4b604bf2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13156260717776486",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13156260717945323",
+                  "id": "9",
+                  "meta_info": {
+                     "custom_keywords": "[]",
+                     "guid": "AB51E2BF-EBAE-4157-B119-6C478CE725DC",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "imageDataType": "2",
+                     "imageID": "B90AB9E80FDD4C95038EBDFE11BC7C7C532FD38CD3816EA666EDAC5D8CECFBFF",
+                     "imageType": "2",
+                     "last_visited_desktop": "13172930071356124",
+                     "partner_id": "facebook",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7f7f24d59ae6c9f584a9d494b23027933fda169a.png",
+                     "partner_url": "http://www.facebook.com/",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/facebook",
+                     "redirect": "1",
+                     "revision": "20171003",
+                     "server_position": "1"
+                  },
+                  "name": "Facebook",
+                  "type": "url",
+                  "url": "http://www.facebook.com/"
+               }, {
+                  "date_added": "13156787925157518",
+                  "id": "18",
+                  "meta_info": {
+                     "last_visited_desktop": "13172218389972514"
+                  },
+                  "name": "youtube.com",
+                  "type": "url",
+                  "url": "http://youtube.com/"
+               }, {
+                  "date_added": "13160080332929483",
+                  "id": "21",
+                  "meta_info": {
+                     "last_visited_desktop": "13172842874737965"
+                  },
+                  "name": "xkcd: 2016 Election Map",
+                  "type": "url",
+                  "url": "http://xkcd.com/"
+               }, {
+                  "date_added": "13161006070092682",
+                  "id": "23",
+                  "meta_info": {
+                     "last_visited_desktop": "13171032946665698"
+                  },
+                  "name": "CS335: Compiler Design",
+                  "type": "url",
+                  "url": "https://web.cse.iitk.ac.in/users/subhajit/courses/CS335_Jan2018/CS335.php"
+               }, {
+                  "date_added": "13161852292474518",
+                  "id": "24",
+                  "meta_info": {
+                     "last_visited_desktop": "13172585438280471"
+                  },
+                  "name": "Online Courses | Online Courses",
+                  "type": "url",
+                  "url": "https://onlinecourses.iitk.ac.in/user/login"
+               }, {
+                  "date_added": "13162321727088346",
+                  "id": "26",
+                  "meta_info": {
+                     "last_visited_desktop": "13169184538936110"
+                  },
+                  "name": "CS657: Information Retrieval",
+                  "type": "url",
+                  "url": "https://web.cse.iitk.ac.in/users/cs657/"
+               } ],
+               "date_added": "13156260717939381",
+               "date_modified": "13172567257908438",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "ef518ac2-5c36-44fe-8df6-248e88bad0ef"
+               },
+               "name": "manthan-HP-Pavilion-Notebook",
+               "type": "folder"
+            } ],
+            "date_added": "13156260717939285",
+            "date_modified": "0",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13156260717939285",
+            "date_modified": "13172567264009441",
+            "id": "7",
+            "name": "Bin",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13156260717939283",
+            "date_modified": "0",
+            "id": "4",
+            "name": "Unsorted bookmarks",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [ {
+               "date_added": "13172761434214182",
+               "id": "46",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "9B4AE1F2C859085FD85C02E890E72F6AC61C9B18916C49E4AE0D80F708C5AB9B",
+                  "imageIdentifier": "3706197b",
+                  "imageType": "2",
+                  "last_visited_desktop": "13172761434214940"
+               },
+               "name": "Digital Image Processing Tutorial",
+               "type": "url",
+               "url": "https://www.tutorialspoint.com/dip/index.htm"
+            }, {
+               "date_added": "13172757239278257",
+               "id": "45",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "61F33339905045E296E99F720291680964BDE104FCACC1635DEC4A7670EB9A27",
+                  "imageIdentifier": "6522ebb9",
+                  "imageType": "2",
+                  "last_visited_desktop": "13172757239278865"
+               },
+               "name": "SIFT: Theory and Practice: Introduction - AI Shack",
+               "type": "url",
+               "url": "http://www.aishack.in/tutorials/sift-scale-invariant-feature-transform-introduction/"
+            }, {
+               "date_added": "13172740376392413",
+               "id": "44",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "B6DF5FD67ADF8E937FDF9A378CB215165BE8312CC8BF52C9C105FA413B6FC332",
+                  "imageIdentifier": "505fd7d2",
+                  "imageType": "2",
+                  "last_visited_desktop": "13172919788949287"
+               },
+               "name": "c++ - Implementing Gaussian Blur - How to calculate convolution matrix (kernel) - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/8204645/implementing-gaussian-blur-how-to-calculate-convolution-matrix-kernel"
+            }, {
+               "date_added": "13171964594667031",
+               "id": "42",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "5C9A323B3908932C3E6E2F404451AE388DEAD2220E064D31F46183DCDEA133FC",
+                  "imageIdentifier": "28e4fc10",
+                  "imageType": "2",
+                  "last_visited_desktop": "13172567269868593"
+               },
+               "name": "Python Numpy Tutorial",
+               "type": "url",
+               "url": "http://cs231n.github.io/python-numpy-tutorial/"
+            }, {
+               "date_added": "13171830590555676",
+               "id": "41",
+               "meta_info": {
+                  "last_visited_desktop": "13172761686716211"
+               },
+               "name": "A Beginner's Guide to Object Detection (article) - DataCamp",
+               "type": "url",
+               "url": "https://www.datacamp.com/community/tutorials/object-detection-guide?utm_medium=fb%2Can%2Cig%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5adf89a8b5fbbc56d9544549"
+            }, {
+               "date_added": "13171543580380572",
+               "id": "39",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "9C46F24E427C29E759E653367C5EC24EFC0DF9DF0D2F3E603EF0D08925625A4B",
+                  "imageIdentifier": "4a280047",
+                  "imageType": "2",
+                  "last_visited_desktop": "13171543622316583"
+               },
+               "name": "jbhuang0604/awesome-computer-vision: A curated list of awesome computer vision resources",
+               "type": "url",
+               "url": "https://github.com/jbhuang0604/awesome-computer-vision"
+            }, {
+               "date_added": "13171362187002706",
+               "id": "37",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "7CF0F9C1F1F6538A048BE7C24F85780438790C731F13557B8ECB768500D0FF16",
+                  "imageIdentifier": "4533d08e",
+                  "imageType": "2",
+                  "last_visited_desktop": "13172501318287299"
+               },
+               "name": "Syllabus | CS 231N",
+               "type": "url",
+               "url": "http://cs231n.stanford.edu/syllabus.html"
+            }, {
+               "date_added": "13170854338043133",
+               "id": "35",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "09EFD4CB220FC1B7033E88D6523D43B9E3058CCA314C67DE8CA2AB396D83E78E",
+                  "imageIdentifier": "33dc4a09",
+                  "imageType": "2",
+                  "last_visited_desktop": "13170854338043531"
+               },
+               "name": "Delete pages from your PDF online",
+               "type": "url",
+               "url": "https://www.sejda.com/delete-pdf-pages#results-EAN3TJVX-201805151237"
+            }, {
+               "date_added": "13168802444085152",
+               "id": "33",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "B9C9178ED01018B9F7DE8EEDC91C7346C39A7281E38F0F22F800BF6A113A2DC5",
+                  "imageIdentifier": "618378dd",
+                  "imageType": "2",
+                  "last_visited_desktop": "13168873922319202"
+               },
+               "name": "Buttercup Festival by David Troupes",
+               "type": "url",
+               "url": "http://www.buttercupfestival.com/2-36.htm"
+            }, {
+               "date_added": "13168246845933520",
+               "id": "30",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "E3FEDE9A6F57A15E08FEE23F894DE54E2DA33DCB589B0060DF96D43F902D46E4",
+                  "imageIdentifier": "026c39fb",
+                  "imageType": "2",
+                  "last_visited_desktop": "13168294015700302"
+               },
+               "name": "How to solve Realtek RTL8723BE weak wifi signal problem in ubuntu | CONNECTwww.com",
+               "type": "url",
+               "url": "https://connectwww.com/how-to-solve-realtek-rtl8723be-weak-wifi-signal-problem-in-ubuntu/4625/"
+            }, {
+               "date_added": "13167171368435653",
+               "id": "28",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "37B944C73C0BD957B81E8783C058749F375738DF6B3D331C718D5BF70C455F9D",
+                  "imageIdentifier": "208468d4",
+                  "imageType": "2",
+                  "last_visited_desktop": "13168897575988597"
+               },
+               "name": "xkcd: Grownups",
+               "type": "url",
+               "url": "https://xkcd.com/150/"
+            }, {
+               "date_added": "13163333720736737",
+               "id": "27",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "DAB71EAAFAB459BEA7723F1A9FAAAA09BAE90F9D98E7FAD141C02E25A247D38D",
+                  "imageIdentifier": "73d1be65",
+                  "imageType": "2",
+                  "last_visited_desktop": "13169666177355070"
+               },
+               "name": "Exam Scheduler, IITK",
+               "type": "url",
+               "url": "http://172.26.142.68/examscheduler/personal_schedule.php?rollno=150388"
+            }, {
+               "date_added": "13156872355325828",
+               "id": "19",
+               "meta_info": {
+                  "imageDataType": "2",
+                  "imageID": "E8E6580B3F82CCC5DEADE2067EAFCD7E6ADEE6CE23645723FF4394801B228187",
+                  "imageIdentifier": "13b71f68",
+                  "imageType": "2",
+                  "last_visited_desktop": "13156872355325970"
+               },
+               "name": "Disable & Enable CD-ROM - Ask Ubuntu",
+               "type": "url",
+               "url": "https://askubuntu.com/questions/873396/disable-enable-cd-rom"
+            } ],
+            "date_added": "13156260717939284",
+            "date_modified": "13172761434214182",
+            "id": "5",
+            "name": "Other bookmarks",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13156260717776493",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Imported Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13156260717776495",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,110 @@
+{
+  "disabled_for_site": {
+    "message": "በዚህ ድር ገጾች ላይ <strong>ጠፍቷል</strong>"
+  }, 
+  "notification_open_all": {
+    "message": "በዚህ ማስታወሻ ውስጥ ያሉ አገናኞች ሁሉ ይክፈቱ"
+  }, 
+  "clickhide_instructions": {
+    "message": "ይህን መልእክት እንደዘጉ፥ በገጹ ላይ ያለ አካል ላይ ክሊክ (ወይም የቀኝ ክሊክ) ያርጉ።"
+  }, 
+  "options_filterList_updateNow": {
+    "message": "ማሻሻያ አሁን አርግ"
+  }, 
+  "cancel": {
+    "message": "ይቅር"
+  }, 
+  "options_tab_general": {
+    "message": "አጠቃላይ"
+  }, 
+  "enabled_for_site": {
+    "message": "በዚህ ድር ገጾች ላይ <strong>በርቷል</strong>"
+  }, 
+  "stats_title": {
+    "message": "የተከለከሉ ማስታወቂያዎች"
+  }, 
+  "add": {
+    "message": "ጨምር"
+  }, 
+  "stats_label_page": {
+    "message": "<strong>$number$</strong> በዚህ ገጽ ላይ", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "name_devbuild": {
+    "message": "አድብሎክ ፕላስ በስሪት ላይ ያለ"
+  }, 
+  "invalid_css_selector": {
+    "message": "$selector$ ትክክለኛ የሲኤስኤስ መራጭ አይደለም።", 
+    "placeholders": {
+      "selector": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "options_short": {
+    "message": "ምርጫዎች"
+  }, 
+  "block_element": {
+    "message": "ይሄንን አካል ከልክል"
+  }, 
+  "add_filters_msg": {
+    "message": "ማጣሪያ(ዎች) ጨምር?"
+  }, 
+  "description": {
+    "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers.", 
+    "description": "Note: this cannot be longer than 132 characters"
+  }, 
+  "notification_configure": {
+    "message": "የማስታወሻ ምርጫዎትን ይለውጡ"
+  }, 
+  "notification_without_buttons": {
+    "message": "በውስጡ ያሉ አገናኞች ሁሉ ለመክፈት ማስታወሻውን ይጫኑት።"
+  }, 
+  "stats_show_iconnumber": {
+    "message": "ቁጥር ምልክት ላይ አሳይ"
+  }, 
+  "options_filterList_column_name": {
+    "message": "የማጣሪያ ዝርዝር"
+  }, 
+  "line": {
+    "message": "መስመር $number$", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }, 
+  "notification_with_buttons": {
+    "message": "'OK'ን ይጫኑ በዚህ ማስታወሻ ውስጥ ያሉ አገናኞች ሁሉ ለመክፈት።"
+  }, 
+  "unexpected_filter_list_header": {
+    "message": "የማጣሪያ ዝርዝር ራስጌ እዚህ ጋር አይፈቀድም"
+  }, 
+  "options_customFilter_cancel": {
+    "message": "ይቅር"
+  }, 
+  "name": {
+    "message": "Adblock Plus"
+  }, 
+  "easy_create_filter": {
+    "message": "ይህን አካል ይከልክሉ"
+  }, 
+  "continue": {
+    "message": "ቀጥል"
+  }, 
+  "options_filterList_title": {
+    "message": "የማጣሪያ ዝርዝር"
+  }, 
+  "stats_label_total": {
+    "message": "<strong>$number$</strong> ባጠቃላይ", 
+    "placeholders": {
+      "number": {
+        "content": "$1"
+      }
+    }
+  }
+}

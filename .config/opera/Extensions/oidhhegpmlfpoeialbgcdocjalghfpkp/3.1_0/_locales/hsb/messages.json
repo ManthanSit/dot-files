@@ -1,0 +1,174 @@
+{
+  "issueReporter_comment_label": {
+    "message": "Komentar (opcionalny):"
+  }, 
+  "issueReporter_comment_lengthWarning": {
+    "message": "Dołhosć wašeho komentar překročuje 1000 znamješkow. Jenož prěnje 1000 znamješkow budu so słać."
+  }, 
+  "issueReporter_page_title": {
+    "message": "Problemowy rozprawnik"
+  }, 
+  "issueReporter_falseNegative_label": {
+    "message": "Adblock Plus wabjenje njeblokuje"
+  }, 
+  "options_email": {
+    "message": "E-mejl:"
+  }, 
+  "issueReporter_falsePositive_label": {
+    "message": "Adblock Plus přewjele blokuje"
+  }, 
+  "firstRun_contributor_credits": {
+    "message": "Dźakprajenje sobuskutkowacym"
+  }, 
+  "notification_antiadblock_title": {
+    "message": "Cilowe zdźělenki schować?"
+  }, 
+  "firstRun_acceptableAdsHeadline": {
+    "message": "Mjerzaca reklama budźe so nětko blokować"
+  }, 
+  "overlay_notification_button_no": {
+    "message": "Ně"
+  }, 
+  "issueReporter_comment_description": {
+    "message": "Tekstowe polo deleka zmóžnja wam, komentar zapodać, zo byšće nam pomhał, problem rozumić. Tutón krok je opcionalny, ale poruča so, jeli problem wočiwidny njeje. Móžeće tež daty zdźělenki přepruwować, prjedy hač so sćele."
+  }, 
+  "issueReporter_falseNegative_description": {
+    "message": "Wubjerće tutu opciju, jeli wabjenje so zwobraznjuje, hačrunjež Adblock Plus je zmóžnjeny."
+  }, 
+  "sendReport": {
+    "message": "Problem na tutej stronje zdźělić"
+  }, 
+  "cancel": {
+    "message": "Přetorhnyć"
+  }, 
+  "issueReporter_doneButton_label": {
+    "message": "Hotowo"
+  }, 
+  "firstRun_share_headline": {
+    "message": "<a>Podajće nam ruku</a>, zo bychmy web k lěpšemu městnu činili"
+  }, 
+  "firstRun_title": {
+    "message": "Adblock Plus je so instalował"
+  }, 
+  "issueReporter_sendButton_label": {
+    "message": "Zdźělenku pósłać"
+  }, 
+  "firstRun_acceptableAdsExplanation": {
+    "message": "Bychmy rady websydła pozbudźili, sprawne, decentne wabjenje wužiwać. Tohodla smy <a>krute směrnicy</a> postajili, zo bychmy akceptabelne wabjenje identifikowali, kotrež so w standardnych nastajenjach pokazuje. Jeli chceće najebać toho wšo wabjenje blokować, móžeće jo wob mało sekundow <a>znjemóžnić</a>."
+  }, 
+  "add": {
+    "message": "Přidać"
+  }, 
+  "issueReporter_falsePositive_description": {
+    "message": "Wubjerće tutu opciju, jeli stronje wažny wobsah faluje, so strona wopak zwobraznja abo porjadnje njefunguje. Móžeće zwěsćić, hač Adblock Plus je wina na tutym problemje, hdyž jón nachwilu znjemóžnjeće."
+  }, 
+  "firstRun_filterlistsReinitializedWarning": {
+    "message": "Zda so, zo problem je zawinował, zo wšě filtry su so wotstronili a my njemóžachmy zawěsćenje wobnowić. Tohodla dyrbjachmy waše filtry a nastajenja za akceptabelne wabjenje wróćo stajić. Prošu přepruwujće swoje filtrowe lisćiny a nastajenja za akceptabelne wabjenje w <a>nastajenjach Adblock Plus</a>."
+  }, 
+  "issueReporter_typeSelector_heading": {
+    "message": "Problemowy typ wubrać"
+  }, 
+  "filter_invalid_regexp": {
+    "message": "Njepłaćiwy regularny wuraz"
+  }, 
+  "issueReporter_errorMessage": {
+    "message": "Pospyt, zdźělenku pósłać, je so ze zmylkowym kodom \"?1?\" njeporadźił. Prošu zawěsćće, zo sće z internetom zwjazany a spytajće hišće raz. Jeli problem dale eksistuje, poprošće prošu w [link]forumje Adblock Plus[/link] wo pomoc."
+  }, 
+  "firstRun_donate": {
+    "message": "darić"
+  }, 
+  "options_short": {
+    "message": "Opcije"
+  }, 
+  "options_filterList_column_status": {
+    "message": "Status"
+  }, 
+  "firstRun_donate_label": {
+    "message": "Podpěrajće naš projekt"
+  }, 
+  "issueReporter_anonymousSubmission_label": {
+    "message": "Anonymne słanje"
+  }, 
+  "issueReporter_email_label": {
+    "message": "E-mejl:"
+  }, 
+  "issueReporter_sendPage_heading": {
+    "message": "Zdźělenku pósłać"
+  }, 
+  "description": {
+    "message": "With over 500 million downloads, Adblock Plus is one of the world's most popular ad blockers.", 
+    "description": "Note: this cannot be longer than 132 characters"
+  }, 
+  "issueReporter_dataCollector_heading": {
+    "message": "Witajće do problemoweho rozprawnika"
+  }, 
+  "filters_subscription_lastDownload_connectionError": {
+    "message": "Njeporadźiło, sćahowanski zmylk"
+  }, 
+  "issueReporter_knownIssueMessage": {
+    "message": "Problem, kotryž sće zdźělił, je hižo znaty. Dalše informacije:"
+  }, 
+  "options_filterList_lastDownload_connectionError": {
+    "message": "Njeporadźiło, sćahowanski zmylk"
+  }, 
+  "overlay_notification_button_yes": {
+    "message": "Haj"
+  }, 
+  "options_close": {
+    "message": "začinić"
+  }, 
+  "firstRun_share": {
+    "message": "Informujće swojich přećelow"
+  }, 
+  "options_filterList_state_disabled": {
+    "message": "Znjemóžnjeny"
+  }, 
+  "issueReporter_email_description": {
+    "message": "Poručamy was, płaćiwu e-mejlowu adresu zapodać, zo bychmy móhli z wami do zwiska stajić, jeli su prašenja wo wašej rozprawje. Budźe nam tež zmóžnić, waše přinoški připóznać a jim wyšu prioritu dać."
+  }, 
+  "filter_unknown_option": {
+    "message": "Njeznata filtrowa opcija"
+  }, 
+  "issueReporter_anonymousSubmission_warning": {
+    "message": "Njemóžemy so zaso na was wobroćić a damy najskerje wašej rozprawje nisku prioritu."
+  }, 
+  "options_filterList_lastDownload_invalidURL": {
+    "message": "Njeporadźiło, žana płaćiwa adresa"
+  }, 
+  "issueReporter_showData_label": {
+    "message": "Daty zdźělenki pokazać"
+  }, 
+  "options_customFilter_cancel": {
+    "message": "Přetorhnyć"
+  }, 
+  "notification_antiadblock_message": {
+    "message": "Tute sydło je za to znate, zo cilowe zdźělenki za wužiwarjow Adblock Plus pokazuje. Chceće, zo Adblock Plus cilowe zdźělenki chowa?"
+  }, 
+  "issueReporter_commentPage_heading": {
+    "message": "Komentar zapodać"
+  }, 
+  "issueReporter_sending": {
+    "message": "Prošu počakńće, doniž Adblock Plus wašu zdźělenku njewotesyła."
+  }, 
+  "name": {
+    "message": "Adblock Plus"
+  }, 
+  "issueReporter_confirmationMessage": {
+    "message": "Waša zdźělenka je so składowała. Móžeš pod slědowacej adresu na njo přistup měć:"
+  }, 
+  "issueReporter_privacyPolicy": {
+    "message": "Prawidła priwatnosće"
+  }, 
+  "issueReporter_dataCollector_description": {
+    "message": "Prošu počakńće, mjeztym zo Adblock Plus trěbne daty hromadźi."
+  }, 
+  "continue": {
+    "message": "Pokročować"
+  }, 
+  "options_filterList_lastDownload_checksumMismatch": {
+    "message": "Njeporadźiło, wopačna kontrolna suma"
+  }, 
+  "issueReporter_typeSelector_description": {
+    "message": "Tute wokno budźe wam přez kroki wjesć, kotrež su trěbne za słanje wopisanja problemow Adblock Plus. Wubjerće prošu najprjedy družinu problema, na kotryž sće na tutej stronje storčił:"
+  }
+}

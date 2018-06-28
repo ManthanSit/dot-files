@@ -1,0 +1,9 @@
+2018/05/23-15:31:47.910 16012 Reusing MANIFEST /home/manthan/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2018/05/23-15:31:47.911 16012 Recovering log #22
+2018/05/23-15:31:47.919 16012 Reusing old log /home/manthan/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000022.log 
+2018/05/23-15:31:53.566 14035 Level-0 table #25: started
+2018/05/23-15:31:53.698 14035 Level-0 table #25: 4633065 bytes OK
+2018/05/23-15:31:53.830 14035 Delete type=0 #22
+2018/05/23-15:32:31.581 14035 Level-0 table #27: started
+2018/05/23-15:32:31.830 14035 Level-0 table #27: 4827827 bytes OK
+2018/05/23-15:32:31.990 14035 Delete type=0 #24
